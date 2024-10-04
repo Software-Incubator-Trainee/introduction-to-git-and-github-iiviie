@@ -1,1 +1,12 @@
 my name is kunwar divyansh verma, a second year student from CSE-2
+
+Skills
+1.HTML
+2.CSS
+3.Tailwind
+4.Javascript
+5.React
+
+
+Hobbies
+1.gaming , story mode games as well as competitive games.
